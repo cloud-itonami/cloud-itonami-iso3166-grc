@@ -1,8 +1,9 @@
 # cloud-itonami-iso3166-grc
 
-Open ISO 3166 Blueprint for **GRC**: Hellenic Republic.
+**`:implemented`** for **GRC**. Flagship `eu-establishment-missing`, tax `afm-unverified`.
 
-- Procurement: ΕΣΗΔΗΣ / Promitheus e-procurement portal (eprocurement.gov.gr)
-- Business/tax: GEMI business registry + AFM tax number
+```
+clojure -M:dev:test
+```
 
 AGPL-3.0-or-later.
